@@ -1,0 +1,27 @@
+"10:07:30 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:07:34 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:07:38 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:07:41 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:07:44 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:07:47 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:08:55 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:10:17 [main] INFO  application.Main - Click succesful
+""10:10:17 [main] ERROR application.Main - jakis blad
+""10:10:21 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:11:36 [main] INFO  application.Main - Click succesful
+""10:11:36 [main] ERROR application.Main - jakis blad
+""10:11:36 [main] DEBUG application.Main - skrt
+""10:11:39 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""10:13:57 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""10:14:09 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""10:14:21 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""14:55:29 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""14:55:45 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""14:56:00 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""14:56:12 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""14:56:33 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""14:56:40 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""14:58:21 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""14:58:26 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:11:22 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+"

@@ -1,0 +1,25 @@
+"12:52:05 [JavaFX Application Thread] INFO  application.Main - Successful login
+""12:52:13 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""12:52:16 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""13:04:30 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""13:04:30 [JavaFX Application Thread] INFO  application.Main - Successful login
+""13:04:37 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""13:04:45 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""13:22:20 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""13:22:20 [JavaFX Application Thread] INFO  application.Main - Successful login
+""13:22:32 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""13:22:37 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""13:28:00 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""13:28:00 [JavaFX Application Thread] INFO  application.Main - Successful login
+""13:28:07 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""13:28:12 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""13:40:57 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""13:40:57 [JavaFX Application Thread] INFO  application.Main - Successful login
+""13:41:03 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""13:41:07 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""13:45:57 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""13:45:57 [JavaFX Application Thread] INFO  application.Main - Successful login
+""13:46:03 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""13:46:07 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""13:46:21 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+"

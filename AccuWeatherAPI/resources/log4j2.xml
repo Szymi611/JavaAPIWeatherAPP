@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<Property name="filename">./logs</Property> //lokalizacja, to z kropka moze nie zadzialac znowu
+	</Properties>
+	<Appenders>
+		<RollingFile name="file" 
+			filename="${filename}/logs.log"
+			filePattern="${filename}/logs-%d{HH-mm-ss-SSS}.log">
+			<PatternLayout>
+				<pattern>"%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"</pattern>
+			</PatternLayout>
+			<SizeBasedTriggeringPolicy size="3 KB" />
+		</RollingFile>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="application" level="debug" additivity="false">
+			<AppenderRef ref="Console" />  //to powoduje wypisanie na konsoli
+			<AppenderRef ref="file" />		//a to do pliku
+		</Logger>
+		<Root level="trace">
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+</Configuration>

@@ -1,0 +1,25 @@
+"11:12:13 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:12:23 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""11:12:26 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:14:01 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:14:01 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:14:09 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""11:17:10 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:17:10 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:17:17 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""11:17:25 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:22:12 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:22:12 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:22:22 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""11:23:30 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:29:30 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:29:30 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:29:41 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""11:29:43 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:39:12 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:39:12 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:39:23 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:46:58 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:46:58 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:47:43 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+"

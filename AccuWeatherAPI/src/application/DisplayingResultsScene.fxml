@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.LineChart?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ControllerDisplayingResults">
+   <children>
+      <Label fx:id="cityLabel" layoutX="22.0" layoutY="14.0" prefHeight="42.0" prefWidth="554.0" text="City">
+         <font>
+            <Font name="Arial Italic" size="35.0" />
+         </font></Label>
+      <Label fx:id="dateLabel" layoutX="22.0" layoutY="63.0" prefHeight="40.0" prefWidth="181.0" text="Label" />
+      <LineChart fx:id="temperatureChart" layoutX="22.0" layoutY="94.0" prefHeight="292.0" prefWidth="553.0">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" fx:id="x" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis fx:id="y" side="LEFT" />
+        </yAxis>
+      </LineChart>
+      <Button fx:id="returnButton" layoutX="524.0" layoutY="22.0" mnemonicParsing="false" onAction="#changeScene" text="Return" />
+   </children>
+</AnchorPane>

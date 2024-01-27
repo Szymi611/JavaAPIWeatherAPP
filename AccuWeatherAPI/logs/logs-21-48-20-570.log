@@ -1,0 +1,36 @@
+"21:31:38 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:35:41 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:35:46 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:36:30 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:36:35 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:36:35 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""21:36:46 [JavaFX Application Thread] ERROR application.Main - Invalid characters in city name
+""21:36:51 [JavaFX Application Thread] ERROR application.Main - Invalid characters in city name
+""21:36:53 [JavaFX Application Thread] ERROR application.Main - Invalid characters in city name
+""21:36:55 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:38:11 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:38:15 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:38:15 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""21:38:21 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:38:25 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:38:45 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:38:48 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:38:48 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""21:38:53 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:38:56 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:47:45 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:47:54 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:47:54 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: admin
+""21:48:00 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:00 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: admin
+""21:48:01 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:01 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: admin
+""21:48:07 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:07 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: admin
+""21:48:08 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:08 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: admin
+""21:48:09 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:09 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: admin
+""21:48:10 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:10 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: admin
+"

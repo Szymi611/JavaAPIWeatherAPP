@@ -1,0 +1,24 @@
+"22:38:40 [JavaFX Application Thread] INFO  application.Main - Successful login
+""22:39:00 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""22:39:13 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""21:51:02 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:51:02 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""21:51:13 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:51:20 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""09:58:06 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""09:58:06 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""09:58:15 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:37:21 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""15:37:21 [JavaFX Application Thread] INFO  application.Main - Successful login
+""15:37:42 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:37:51 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:37:57 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:38:05 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""16:58:53 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""16:58:53 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""16:59:14 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:00:57 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:00:57 [JavaFX Application Thread] INFO  application.Main - Successful login
+""17:01:09 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:01:27 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+"

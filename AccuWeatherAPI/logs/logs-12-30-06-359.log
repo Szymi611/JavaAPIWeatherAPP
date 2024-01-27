@@ -1,0 +1,9 @@
+"12:27:31 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""12:27:53 [main] INFO  application.Main - Uruchamianie aplikacji
+""12:27:56 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""12:27:56 [JavaFX Application Thread] INFO  application.Main - Successful login for user: test
+""12:28:02 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""12:28:06 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""12:29:56 [main] INFO  application.Main - Uruchamianie aplikacji
+""12:30:04 [JavaFX Application Thread] INFO  application.Main - User logged out.
+"

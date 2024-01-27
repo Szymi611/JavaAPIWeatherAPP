@@ -1,0 +1,37 @@
+"17:58:40 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""17:59:40 [main] INFO  application.Main - Uruchamianie aplikacji
+""18:00:02 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:00:02 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""18:01:26 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""18:01:30 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""18:05:26 [main] INFO  application.Main - Uruchamianie aplikacji
+""18:05:32 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:05:32 [JavaFX Application Thread] WARN  application.Main - Username admin is already taken.
+""18:06:09 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:06:09 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""18:06:09 [JavaFX Application Thread] INFO  application.Main - User tylkotest registered successfully.
+""18:06:12 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""18:13:33 [main] INFO  application.Main - Uruchamianie aplikacji
+""18:13:36 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:13:36 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""18:13:44 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""18:13:49 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""18:13:52 [main] INFO  application.Main - Uruchamianie aplikacji
+""18:13:57 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:13:57 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""18:14:05 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""18:14:08 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""18:15:35 [main] INFO  application.Main - Uruchamianie aplikacji
+""18:15:38 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:15:38 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""18:15:45 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""18:15:51 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""19:05:26 [main] INFO  application.Main - Uruchamianie aplikacji
+""19:05:31 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""19:05:31 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""19:05:34 [JavaFX Application Thread] ERROR application.Main - User left the field empty
+""19:05:41 [JavaFX Application Thread] ERROR application.Main - User left the field empty
+""19:05:50 [JavaFX Application Thread] WARN  application.Main - Invalid characters in city name
+""19:06:31 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""19:06:35 [main] INFO  application.Main - Uruchamianie aplikacji
+"

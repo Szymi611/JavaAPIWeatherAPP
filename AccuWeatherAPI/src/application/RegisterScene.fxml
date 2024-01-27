@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ControllerRegisterScene">
+   <children>
+      <Button fx:id="submitButton" layoutX="274.0" layoutY="257.0" mnemonicParsing="false" onAction="#submit" text="submit" />
+      <Label layoutX="229.0" layoutY="14.0" prefHeight="36.0" prefWidth="142.0" text="Registration">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Label>
+      <Label layoutX="117.0" layoutY="132.0" text="username">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="fillInLabel" alignment="CENTER" layoutY="74.0" prefHeight="28.0" prefWidth="600.0" text="Fill in">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Label>
+      <PasswordField fx:id="passwordTextField" layoutX="228.0" layoutY="175.0" promptText="at least 5 characters" />
+      <PasswordField fx:id="repeatPasswordTextField" layoutX="228.0" layoutY="218.0" promptText="at least 5 characters" />
+      <Label layoutX="117.0" layoutY="178.0" text="password">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <TextField fx:id="usernameTextField" layoutX="228.0" layoutY="129.0" />
+      <Label layoutX="96.0" layoutY="221.0" text="repeat password">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label fx:id="loginLabel" layoutX="418.0" layoutY="336.0" onMouseClicked="#login" text="Already have an account?">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Label>
+   </children>
+</AnchorPane>

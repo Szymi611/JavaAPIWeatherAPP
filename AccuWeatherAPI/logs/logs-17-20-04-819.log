@@ -1,0 +1,25 @@
+"14:02:19 [JavaFX Application Thread] INFO  application.Main - Successful login
+""14:02:33 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""14:02:44 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:54:00 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""15:54:00 [JavaFX Application Thread] INFO  application.Main - Successful login
+""15:54:09 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:54:50 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:58:52 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""15:58:52 [JavaFX Application Thread] INFO  application.Main - Successful login
+""15:59:00 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:59:12 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""17:05:39 [main] INFO  application.Main - Uruchamianie aplikacji
+""17:05:57 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:05:57 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""17:06:06 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:06:16 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""17:06:18 [main] INFO  application.Main - Uruchamianie aplikacji
+""17:06:24 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:06:24 [JavaFX Application Thread] INFO  application.Main - Successful login for user: pablo
+""17:06:36 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:06:45 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""17:19:48 [main] INFO  application.Main - Uruchamianie aplikacji
+""17:19:54 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:19:54 [JavaFX Application Thread] WARN  application.Main - Failed login attempt for user: kurdesmiga
+"

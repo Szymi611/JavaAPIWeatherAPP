@@ -1,0 +1,25 @@
+"11:47:43 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:49:25 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:49:28 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:49:32 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:53:15 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:53:15 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:53:27 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:54:14 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:54:14 [JavaFX Application Thread] INFO  application.Main - Successful login
+""11:55:18 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""11:59:59 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""11:59:59 [JavaFX Application Thread] INFO  application.Main - Successful login
+""12:00:33 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""12:00:41 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""12:00:41 [JavaFX Application Thread] INFO  application.Main - Successful login
+""12:00:51 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""12:00:53 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""12:01:29 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""12:01:29 [JavaFX Application Thread] INFO  application.Main - Successful login
+""12:01:35 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""12:01:45 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""12:04:53 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""12:04:53 [JavaFX Application Thread] INFO  application.Main - Successful login
+""12:05:01 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+"

@@ -1,0 +1,36 @@
+"21:48:20 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:20 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""21:48:27 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:48:32 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:28:07 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:28:17 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:28:17 [JavaFX Application Thread] INFO  application.Main - Successful login for user: test
+""21:28:28 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:36:32 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:45:09 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:45:14 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:45:14 [JavaFX Application Thread] INFO  application.Main - Successful login for user: test
+""21:45:21 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:47:24 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:48:15 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:48:19 [JavaFX Application Thread] INFO  application.Main - Logout canceled.
+""21:48:22 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:48:35 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:48:41 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:48:41 [JavaFX Application Thread] INFO  application.Main - Successful login for user: test
+""21:48:48 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:48:52 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:49:17 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:49:22 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:49:22 [JavaFX Application Thread] INFO  application.Main - Successful login for user: test
+""21:49:29 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:49:34 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:49:49 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:49:55 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:49:55 [JavaFX Application Thread] INFO  application.Main - Successful login for user: test
+""21:50:01 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""21:50:21 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""21:53:02 [main] INFO  application.Main - Uruchamianie aplikacji
+""21:53:06 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""21:53:06 [JavaFX Application Thread] INFO  application.Main - Successful login for user: test
+"

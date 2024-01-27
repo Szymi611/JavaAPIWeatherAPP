@@ -1,0 +1,65 @@
+"15:17:19 [main] INFO  application.Main - Uruchamianie aplikacji
+""15:17:31 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""15:17:31 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""15:17:38 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:17:48 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:18:24 [JavaFX Application Thread] ERROR application.Main - Unsuccessful retrieval of the key
+""15:18:33 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:18:40 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:19:05 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:19:30 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""15:34:26 [main] INFO  application.Main - Uruchamianie aplikacji
+""15:34:36 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""15:45:20 [main] INFO  application.Main - Uruchamianie aplikacji
+""15:45:24 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""15:46:27 [main] INFO  application.Main - Uruchamianie aplikacji
+""15:46:27 [JavaFX Application Thread] ERROR application.Main - Wystąpił błąd podczas uruchamiania aplikacji
+" javafx.fxml.LoadException: 
+/D:/studia/III%20semestr/PO/ProjectJava/AccuWeatherAPI/target/classes/application/LoginScene.fxml
+
+	at javafx.fxml/javafx.fxml.FXMLLoader.constructLoadException(FXMLLoader.java:2722) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2692) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2563) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3376) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3332) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3300) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3272) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:3248) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.load(FXMLLoader.java:3241) ~[javafx-fxml-21.0.1-win.jar:?]
+	at AccuWeatherAppi/application.Main.start(Main.java:24) ~[classes/:?]
+	at javafx.graphics/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:839) ~[javafx-graphics-21.0.1-win.jar:?]
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:483) ~[javafx-graphics-21.0.1-win.jar:?]
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456) ~[javafx-graphics-21.0.1-win.jar:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at javafx.graphics/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455) ~[javafx-graphics-21.0.1-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95) ~[javafx-graphics-21.0.1-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-21.0.1-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185) ~[javafx-graphics-21.0.1-win.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:72) ~[javafx-base-21.0.1-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at javafx.base/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:270) ~[javafx-base-21.0.1-win.jar:?]
+	at javafx.fxml/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2688) ~[javafx-fxml-21.0.1-win.jar:?]
+	... 17 more
+Caused by: java.lang.NullPointerException: Cannot invoke "javafx.scene.control.Label.setText(String)" because "this.copyrightLabel" is null
+	at AccuWeatherAppi/application.ControllerLoadingScene.initialize(ControllerLoadingScene.java:51) ~[classes/:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:72) ~[javafx-base-21.0.1-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at javafx.base/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:270) ~[javafx-base-21.0.1-win.jar:?]
+	at javafx.fxml/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-21.0.1-win.jar:?]
+	at javafx.fxml/javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2688) ~[javafx-fxml-21.0.1-win.jar:?]
+	... 17 more

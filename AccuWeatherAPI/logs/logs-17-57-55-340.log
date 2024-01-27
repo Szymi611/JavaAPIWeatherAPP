@@ -1,0 +1,25 @@
+"17:20:04 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:20:04 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""17:20:17 [JavaFX Application Thread] INFO  application.Main - Logout canceled.
+""17:20:23 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:20:30 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""17:25:06 [main] INFO  application.Main - Uruchamianie aplikacji
+""17:25:09 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:25:09 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""17:25:17 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:26:24 [main] INFO  application.Main - Uruchamianie aplikacji
+""17:26:32 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:26:32 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""17:26:41 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:27:27 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""17:27:30 [main] INFO  application.Main - Uruchamianie aplikacji
+""17:27:35 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:27:35 [JavaFX Application Thread] INFO  application.Main - Successful login for user: admin
+""17:27:44 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:30:44 [JavaFX Application Thread] INFO  application.Main - User logged out.
+""17:33:00 [main] INFO  application.Main - Uruchamianie aplikacji
+""17:33:28 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:33:28 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""17:33:46 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:35:16 [JavaFX Application Thread] INFO  application.Main - User logged out.
+"

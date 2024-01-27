@@ -1,0 +1,24 @@
+"17:01:27 [JavaFX Application Thread] INFO  application.Main - Successful login
+""17:01:37 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:27:50 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:27:50 [JavaFX Application Thread] INFO  application.Main - Successful login
+""17:28:22 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:33:59 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""17:34:10 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""17:34:10 [JavaFX Application Thread] INFO  application.Main - Successful login
+""17:34:21 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""17:56:11 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""18:15:35 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:15:35 [JavaFX Application Thread] INFO  application.Main - Successful login
+""18:15:44 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""18:15:49 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""18:17:12 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:17:12 [JavaFX Application Thread] INFO  application.Main - Successful login
+""18:17:19 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""18:17:23 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""18:18:02 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+""18:18:02 [JavaFX Application Thread] INFO  application.Main - Successful registration
+""18:18:11 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""18:18:15 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""18:29:14 [JavaFX Application Thread] DEBUG application.Main - Successful loading UserData
+"

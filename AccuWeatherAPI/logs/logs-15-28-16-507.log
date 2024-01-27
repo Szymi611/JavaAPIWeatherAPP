@@ -1,0 +1,23 @@
+"15:13:42 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:13:57 [JavaFX Application Thread] INFO  application.Main - Successful retrieval of the key
+""15:14:02 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:21:00 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:08 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:21:50 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:51 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:53 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:54 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:55 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:56 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:56 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:21:59 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:22:25 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:22:26 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:22:27 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:22:28 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:22:30 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:24:02 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:27:30 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+""15:27:35 [JavaFX Application Thread] INFO  application.Main - Successfull logout
+""15:28:11 [JavaFX Application Thread] DEBUG application.Main - Unsuccessful retrieval of the key
+"
