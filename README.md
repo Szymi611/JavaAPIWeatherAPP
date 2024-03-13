@@ -1,17 +1,17 @@
-JavaAPIWeatherGUI to aplikacja desktopowa, która wykorzystuje API AccuWeather do wyświetlania aktualnych informacji pogodowych. 
-Użytkownik może wyszukać pogodę dla wybranej lokalizacji na dany dzień lub godzinę. Projekt jest napisany w Java z użyciem JavaFX jako interfejsu graficznego.
+JavaAPIWeatherGUI is a desktop application that utilizes the AccuWeather API to display current weather information. Users can search for weather conditions for a selected location on a given day or hour. The project is written in Java using JavaFX as the graphical user interface.
 
-## Funkcje
-- *Wyszukiwanie Lokalizacji*: Umożliwia użytkownikom wyszukiwanie pogody dla dowolnej lokalizacji wpisanej w pole tekstowe.
-- *Wyświetlanie Pogody Dziennej*: Prezentuje temperaturę, warunki pogodowe, prędkość wiatru, i inne dane dla całego dnia.
-- *Wyświetlanie Pogody Godzinowej*: Pokazuje temperaturę i warunki pogodowe na każdą godzinę dla wybranej lokalizacji.
-- *Interfejs Graficzny*: Łatwy w użyciu i intuicyjny interfejs użytkownika zapewniający szybki dostęp do wszystkich funkcji.
+## Features
+- *Location Search*: Allows users to search for weather conditions for any location entered in the text field.
+- *Display Daily Weather*: Presents temperature, weather conditions, wind speed, and other data for the entire day.
+- *Display Hourly Weather*: Shows temperature and weather conditions for each hour for the selected location.
+- *Graphical User Interface*: Easy-to-use and intuitive user interface providing quick access to all features.
 
-## Technologie
+## Technologies
 - Java
 - JavaFX
 - AccuWeather API
 
-## Wymagania
-- Java 11 lub nowsza
-- Dostęp do internetu dla połączeń z AccuWeather API
+## Requirements
+- Java 11 or newer
+- Internet access for connections to the AccuWeather API
+
